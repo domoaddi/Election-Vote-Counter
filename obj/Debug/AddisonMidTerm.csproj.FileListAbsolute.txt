@@ -1,0 +1,7 @@
+C:\Users\twobr\Documents\AddisonMidTerm\AddisonMidTerm\bin\Debug\AddisonMidTerm.exe.config
+C:\Users\twobr\Documents\AddisonMidTerm\AddisonMidTerm\bin\Debug\AddisonMidTerm.exe
+C:\Users\twobr\Documents\AddisonMidTerm\AddisonMidTerm\bin\Debug\AddisonMidTerm.pdb
+C:\Users\twobr\Documents\AddisonMidTerm\AddisonMidTerm\obj\Debug\AddisonMidTerm.csproj.AssemblyReference.cache
+C:\Users\twobr\Documents\AddisonMidTerm\AddisonMidTerm\obj\Debug\AddisonMidTerm.csproj.CoreCompileInputs.cache
+C:\Users\twobr\Documents\AddisonMidTerm\AddisonMidTerm\obj\Debug\AddisonMidTerm.exe
+C:\Users\twobr\Documents\AddisonMidTerm\AddisonMidTerm\obj\Debug\AddisonMidTerm.pdb
